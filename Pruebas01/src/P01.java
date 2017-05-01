@@ -17,6 +17,7 @@ public class P01 {
 		else
 			System.out.println("b es mayor");
 		
+		//viendo la forma de agregar algo !! 
 		
 	}
 
